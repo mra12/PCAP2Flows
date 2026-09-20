@@ -22,7 +22,8 @@ distribution is provided through Zenodo.
 
 ## Citation
 
-If you use PCAP2Flows in academic work, please cite the associated
-SoftwareX article and the archived Zenodo release.
+If you use PCAP2Flows in academic work, please cite the archived software release:
 
-Citation information will be updated following publication.
+Rashed, M., García-Rubio, C., & Campo, C. (2026). *PCAP2Flows v1.0* [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22116697
+
+Please also cite the associated SoftwareX article once available.
