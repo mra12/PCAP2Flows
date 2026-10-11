@@ -20,6 +20,8 @@ The PCAP2Flows-specific Python source code is available in this
 repository for inspection and development. The complete executable
 distribution is provided through Zenodo.
 
+Dockerfile is also included for auditability. 
+
 ## Citation
 
 If you use PCAP2Flows in academic work, please cite the archived software release:
